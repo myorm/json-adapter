@@ -1,6 +1,6 @@
 {
     "name": "@myorm/json-adapter",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "homepage": "https://github.com/myorm/json-adapter",
     "repository": {
         "type": "git",
